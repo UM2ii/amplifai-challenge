@@ -36,3 +36,6 @@ This policy is intended to enable a coherent and archival challenge summary publ
 
 ### Data License
 The training and validation dataset is released under the CC BY-NC-SA license
+
+
+Last Updated: 4/21/2026
