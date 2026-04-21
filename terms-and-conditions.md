@@ -26,3 +26,13 @@ All submissions and activities may be logged and monitored for security and comp
 
 ### Responsible Use
 Participants agree to use the challenge solely for research and educational purposes.
+
+### Publication Embargo
+We intend to publish a joint challenge paper describing the task, dataset, and results, in a peer-reviewed journal. A 12-month embargo period will apply only to publications that directly disclose or duplicate challenge-level evaluation results, including rankings or comparative performance on the private held-out test set.
+
+During the embargo period, participating teams retain full ownership of their methods and are free to continue developing, extending, and internally disseminating their work. Publications that substantially extend the submitted method or evaluate it outside the official challenge test set are permitted once the embargo period concludes. 
+
+This policy is intended to enable a coherent and archival challenge summary publication without restricting independent methodological research or scientific ownership. 
+
+### Data License
+The training and validation dataset is released under the CC BY-NC-SA license
