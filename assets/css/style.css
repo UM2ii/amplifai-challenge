@@ -318,6 +318,27 @@ footer.site-footer a:hover {
   color: var(--amplifai-muted);
 }
 
+.faq-steps {
+  margin: 1.25rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.faq-steps > li {
+  margin-bottom: 1.75rem;
+}
+
+.faq-steps > li:last-child {
+  margin-bottom: 0;
+}
+
+.faq-steps > li > p {
+  margin-bottom: 0.75rem;
+}
+
+.faq-steps > li .faq-figure {
+  margin-top: 0;
+}
+
 .communications-list {
   border: 1px solid var(--amplifai-border);
   border-radius: 0.5rem;
